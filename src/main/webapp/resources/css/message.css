@@ -1,0 +1,132 @@
+#cont{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+#header{
+    width: 100%;
+    height: 6%;
+    background-color:cornflowerblue ;
+}
+#site{
+
+    width: 100%;
+    height: 100%;
+}
+#aside1 {
+    float: left;
+    width: 5%;
+    background-color: antiquewhite;
+    height: 94%;
+}#aside1a {
+     float: left;
+     width: 100%;
+     background-color: #269abc;
+     height: 100%;
+
+ }
+#a1{
+    margin-top: 20%;
+    width: 90%;
+    margin-left: 5%;
+}#a2{
+     margin-top: 15%;
+     margin-left: 5%;
+     width: 90%;
+ }#a3{
+      margin-top: 15%;
+      margin-left: 5%;
+      width: 90%;
+  }#a4{
+       margin-top: 15%;
+       margin-left: 5%;
+       width: 90%;
+   }
+#a5{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;
+}
+#a6{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;
+}
+#a7{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;
+}
+#a8{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;
+}#aside2{
+        float: right;
+        width: 5%;
+        background-color: #269abc;
+        height: 94%;
+
+    }
+#b1{
+    margin-top: 20%;
+    width: 90%;
+    margin-left: 5%;
+}#b2{
+     margin-top: 15%;
+     margin-left: 5%;
+     width: 90%;
+ }#b3{
+      margin-top: 15%;
+      margin-left: 5%;
+      width: 90%;
+  }#b4{
+       margin-top: 15%;
+       margin-left: 5%;
+       width: 90%;}
+#b5{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;
+}#b6{
+     margin-top: 15%;
+     margin-left: 5%;
+     width: 90%;}
+#b7{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;}
+#b8{
+    margin-top: 15%;
+    margin-left: 5%;
+    width: 90%;}
+#content{
+    overflow: scroll;
+    overflow-x: hidden;
+    width: 90%;
+    height: 90%;
+    margin-left: 5%;
+    background-color: antiquewhite;
+}
+#content1{
+width: 90%;
+margin-left: 5%;
+    height: auto;
+
+
+}
+#messages{
+    width: 100%;
+    height: 4%;
+}
+#contentmesege{
+    margin-left: 5%;
+    height: 4%;
+    width: 90%;
+background-color: burlywood;
+}
+#titl{
+    width: 40%;
+   margin-left: 30%;
+    height: 100%;
+}
